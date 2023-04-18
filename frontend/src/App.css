@@ -1,0 +1,21 @@
+.centered-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.App{
+
+}
+
+
+
+
+
+
+
+
+
+
